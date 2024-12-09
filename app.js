@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
@@ -75,4 +76,3 @@ function reiniciarJogo() {
     tentativas = 1;
     exibirMensagemInicial();
     document.getElementById('reinicar').setAttribute('disabled', true);
-}
